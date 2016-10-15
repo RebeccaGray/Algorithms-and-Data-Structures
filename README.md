@@ -55,6 +55,9 @@ Solution: [integerReverse.js](integerReverse.js)
 Challenge & Tests: [isbnChecker.md](isbnChecker.md) 
 Solution: [isbnChecker.js](isbnChecker.js) 
 
+Challenge & Tests: [knapsack.md](knapsack.md) 
+Solution: [knapsack.js](knapsack.js) 
+
 Challenge & Tests: [largestProductOfThree.md](largestProductOfThree.md) 
 Solution: [largestProductOfThree.js](largestProductOfThree.js) 
 
