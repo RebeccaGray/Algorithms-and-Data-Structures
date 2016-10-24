@@ -1,6 +1,12 @@
 # Algorithms-and-Data-Structures
 solutions to algorithms and data structures problems for fun and sharing
 
+Challenge & Tests: [wordSplit.md](wordSplit.md) 
+Solution: [wordSplit.js](wordSplit.js) 
+
+Challenge & Tests: [spiralTraversal.md](spiralTraversal.md) 
+Solution: [spiralTraversal.js](spiralTraversal.js) 
+
 Challenge & Tests: [ArrayZipSum.md](ArrayZipSum.md) 
 Solution: [arrayZipSum.js](arrayZipSum.js) 
 
