@@ -16,3 +16,17 @@ const wordSplit = (strArr) => {
 
 
 
+ const wordSplit = (strArr, index = 1, solved = false) => {
+    let firstWord = strArr[0].slice(0,index);
+    let secondWord = strArr[0].slice(index, strArr[0].length);
+    if (strArr[1].split(",").indexOf(firstWord) !== -1 &&
+        strArr[1].split(",").indexOf(secondWord) !== -1
+    ) {
+        return `${firstWord},${secondWord}`;
+    } else if (index < strArr[0].length){
+        index ++;
+        return wordSplit(strArr, index, false);
+    } else {
+        return "noresult";
+    }
+}
