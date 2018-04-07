@@ -1,7 +1,7 @@
 # Algorithms-and-Data-Structures
 solutions to algorithms and data structures problems for fun and sharing
 
-Challenge: [2dBoardFlipColumns.md] (2dBoardFlipColumns.md)
+Challenge: [2dBoardFlipColumns.md](2dBoardFlipColumns.md)
 Solution: [2dBoardFlipColumns.js](2dBoardFlipColumns.js)
 
 Challenge & Tests: [wordSplit.md](wordSplit.md) 
