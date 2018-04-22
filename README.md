@@ -1,6 +1,8 @@
 # Algorithms-and-Data-Structures
 solutions to algorithms and data structures problems for fun and sharing
 
+Solution:[consecutiveSum.js](consecutiveSum.js)
+
 Challenge: [2dBoardFlipColumns.md](2dBoardFlipColumns.md)
 Solution: [2dBoardFlipColumns.js](2dBoardFlipColumns.js)
 
